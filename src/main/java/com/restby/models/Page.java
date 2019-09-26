@@ -1,4 +1,4 @@
-package com.restby.models.data;
+package com.restby.models;
 
 import lombok.Data;
 
